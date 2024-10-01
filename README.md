@@ -1,4 +1,4 @@
-# Hello! I'm Pranitha 👩‍✈️
+# Hello! I'm Pranitha ✈️
 
 ## ✨ About Me
 - 🌱 I’m currently learning Full Stack Development
