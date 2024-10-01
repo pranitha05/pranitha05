@@ -27,4 +27,5 @@
 - [LinkedIn](https://www.linkedin.com/in/pranitha-r-276307251/)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitha05&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitha05&theme=dark&layout=compact&title_color=ff00ff&text_color=ff00ff&bg_color=0d1117)
+
