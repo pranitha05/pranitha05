@@ -1,6 +1,6 @@
 # Hello! I'm Pranitha 👋
 
-## 🌱 About Me
+## ✨ About Me
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: rpranitha0512@gmail.com
@@ -16,9 +16,15 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
 
 ## 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/pranitha-r-276307251/)
 
-
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitha05&layout=compact&langs_count=10&theme=radical)]
