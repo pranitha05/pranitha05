@@ -1,4 +1,4 @@
-# Hello! I'm Pranitha 👋
+# Hello! I'm Pranitha 👩‍✈️
 
 ## ✨ About Me
 - 🌱 I’m currently learning Full Stack Development
@@ -27,4 +27,4 @@
 - [LinkedIn](https://www.linkedin.com/in/pranitha-r-276307251/)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitha05&layout=compact&langs_count=10&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitha05&layout=compact&langs_count=10&theme=radical)
