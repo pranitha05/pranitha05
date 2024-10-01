@@ -1,5 +1,5 @@
 <h1 align="center"><em> Hello! I'm Pranitha </em>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Airplane.png" alt="plane" width="35" height="38">
+✈️
 </h1>
 
 <h2 align="center"><em>Frontend Web Development</em></h2>
