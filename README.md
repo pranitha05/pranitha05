@@ -5,7 +5,7 @@
 <h2 align="center"><em>Frontend Web Development</em></h2>
 <br />
 
-## 🤔 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.gif" alt="sparkles" width="25" height="25"/>
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.gif" alt="sparkles" width="25" height="25"/>
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about Frontend Development and Software Development.
 - 📫 How to reach me: [rpranitha0512@gmail.com](mailto:rpranitha0512@gmail.com).
