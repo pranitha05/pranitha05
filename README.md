@@ -1,11 +1,11 @@
 <h1 align="center"><em> Hello! I'm Pranitha </em>
-✈️
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="25" height="25" />
 </h1>
 
 <h2 align="center"><em>Frontend Web Development</em></h2>
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.gif" alt="sparkles" width="25" height="25"/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> About Me
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about Frontend Development and Software Development.
 - 📫 How to reach me: [rpranitha0512@gmail.com](mailto:rpranitha0512@gmail.com).
@@ -14,6 +14,7 @@
 
 ## 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/pranitha-r-276307251/)
+
 
 ## 💻 Tech Stack
 <p align="left">
