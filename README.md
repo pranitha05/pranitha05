@@ -1,35 +1,53 @@
 <h1 align="center"><em> Hello! I'm Pranitha </em>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="40" height="40" />
 </h1>
 
-<h2 align="center"><em>Frontend Web Development</em></h2>
+<h2 align="center"><em>Cybersecurity Enthusiast | Blue Team Learner | Secure Systems Explorer</em></h2>
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> About Me
-- 🌱 I’m currently learning Full Stack Development.
-- 💬 Ask me about Frontend Development and Software Development.
-- 📫 How to reach me: [rpranitha0512@gmail.com](mailto:rpranitha0512@gmail.com).
-- 👨‍💻 All of my projects are available [here](https://github.com/pranitha05).
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Locked.png" alt="Lock" width="25" height="25" /> About Me
+- 🔐 Passionate about **Cybersecurity**, Threat Defense & Secure Software.
+- 🛡️ Learning **blue-team practices**, incident response, and secure coding.
+- 🧩 Exploring how attacks work — and how to stop them.
+- 📨 Reach me at: **[rpranitha0512@gmail.com](mailto:rpranitha0512@gmail.com)**
+- 🗂️ All my security-related projects live **[here](https://github.com/pranitha05)**
 
+---
+
+## 🕵️‍♀️ Cybersecurity Interests
+- 🛡️ **Blue Team Operations**
+- 🧪 **Pentesting Fundamentals**
+- 🔍 **Threat Detection & Analysis**
+- 🛰️ **Phishing, Malware, ATO & Social Engineering**
+- 🔐 **Web App Vulnerabilities (XSS, CSRF, SQLi)**
+- 🧬 **Digital Forensics & Incident Response**
+- 🏗️ **Secure System Design & Automation**
+
+---
 
 ## 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/pranitha-r-276307251/)
 
+---
 
-## 💻 Tech Stack
+## 🛠️ Cybersecurity & Technical Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
 </p>
 
-## 📊 Top Languages
+<p>
+⚙️ *Tools I explore:* Wireshark · Burp Suite · Nmap · Metasploit · Autopsy · OSINT Tools  
+</p>
+
+---
+
+## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitha05&theme=bear)](https://github.com/pranitha05/github-readme-stats)
