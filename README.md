@@ -44,10 +44,5 @@
 </p>
 
 <p>
-⚙️ *Tools I explore:* Wireshark · Burp Suite · Nmap · Metasploit · Autopsy · OSINT Tools  
+⚙️ **Tools I explore:** Wireshark · Burp Suite · Nmap · Metasploit · Autopsy · OSINT Tools  
 </p>
-
----
-
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitha05&theme=bear)](https://github.com/pranitha05/github-readme-stats)
