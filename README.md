@@ -44,5 +44,5 @@
 </p>
 
 <p>
-⚙️ **Tools I explore:** Wireshark · Burp Suite · Nmap · Metasploit · Autopsy · OSINT Tools  
+⚙️ Tools I explore: Wireshark · Burp Suite · Nmap · Metasploit · Autopsy · OSINT Tools  
 </p>
