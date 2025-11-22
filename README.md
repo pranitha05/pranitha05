@@ -26,7 +26,7 @@
 ---
 
 ## 🌐 Socials
-- [LinkedIn](https://www.linkedin.com/in/pranitha-r-276307251/)
+- [LinkedIn](https://www.linkedin.com/in/pranitha-ramaswamy-276307251/)
 
 ---
 
