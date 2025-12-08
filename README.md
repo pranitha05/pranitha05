@@ -46,3 +46,33 @@
 <p>
 ⚙️ Tools I explore: Wireshark · Burp Suite · Nmap · Metasploit · Autopsy · OSINT Tools  
 </p>
+
+<img width="260" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='260' height='50'>
+  <defs>
+    <style>
+      .bg1 { fill: #0d0221; }
+      .bg2 { fill: #440a67; }
+      .text { font-family: monospace; font-size: 16px; fill: #e0e0ff; }
+      .glow {
+        filter: drop-shadow(0 0 4px #8a2be2) drop-shadow(0 0 8px #8a2be2);
+      }
+    </style>
+  </defs>
+
+  <!-- Left panel -->
+  <rect class='bg1 glow' width='140' height='50' rx='8'/>
+  
+  <!-- Right panel -->
+  <rect class='bg2 glow' x='140' width='120' height='50' rx='8'/>
+
+  <!-- Icon (shield) -->
+  <text x='20' y='32' class='text glow'>🛡️</text>
+
+  <!-- Text left -->
+  <text x='55' y='32' class='text glow'>Secured</text>
+  <!-- Text right -->
+  <text x='165' y='32' class='text glow'>Champion</text>
+</svg>
+"/>
+
